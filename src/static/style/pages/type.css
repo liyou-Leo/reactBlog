@@ -1,0 +1,22 @@
+.font{
+  text-align: center;
+  font-size:1.5rem !important;
+  font-weight: bold;
+}
+.list-title{
+  font-size:1.3rem !important;
+  color: #1e90ff !important;
+  padding: 0 0.5rem !important;
+}
+.list-context{
+  color:#777 !important;
+  padding:.5rem !important;
+}
+.list-icon{
+  padding:.5rem 0 !important;
+  color:#AAA !important;
+}
+.list-icon span{
+  display: inline-block !important;
+  padding: 0 10px !important;
+}

@@ -1,0 +1,23 @@
+.author-div{
+  text-align: center !important;
+  padding: 1rem !important;
+}
+.headImg{
+  margin-top: 1rem !important;
+}
+.author-div div{
+  margin-bottom: 1rem !important;
+
+}
+.author-introduction{
+  font-size:.8rem !important;
+  color: #999 !important;
+}
+.account{
+  background-color: #999;
+  margin-left: .5rem !important;
+  margin-right: .5rem !important;
+}
+.tag{
+  margin-top: 1rem !important;
+}
