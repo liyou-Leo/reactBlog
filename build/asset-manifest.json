@@ -1,0 +1,31 @@
+{
+  "files": {
+    "static/css/0.ee37ce11.chunk.css": "/reactBlog/static/css/0.ee37ce11.chunk.css",
+    "static/js/0.3d458b0d.chunk.js": "/reactBlog/static/js/0.3d458b0d.chunk.js",
+    "static/css/1.3918a57a.chunk.css": "/reactBlog/static/css/1.3918a57a.chunk.css",
+    "static/js/1.26630128.chunk.js": "/reactBlog/static/js/1.26630128.chunk.js",
+    "main.css": "/reactBlog/static/css/main.56864540.chunk.css",
+    "main.js": "/reactBlog/static/js/main.290e2e94.chunk.js",
+    "runtime-main.js": "/reactBlog/static/js/runtime-main.d20b531b.js",
+    "static/css/4.e9308cd6.chunk.css": "/reactBlog/static/css/4.e9308cd6.chunk.css",
+    "static/js/4.b666cf5b.chunk.js": "/reactBlog/static/js/4.b666cf5b.chunk.js",
+    "static/css/5.bd4c470c.chunk.css": "/reactBlog/static/css/5.bd4c470c.chunk.css",
+    "static/js/5.7cc64969.chunk.js": "/reactBlog/static/js/5.7cc64969.chunk.js",
+    "static/css/6.c718d603.chunk.css": "/reactBlog/static/css/6.c718d603.chunk.css",
+    "static/js/6.c1425861.chunk.js": "/reactBlog/static/js/6.c1425861.chunk.js",
+    "static/css/7.19505d86.chunk.css": "/reactBlog/static/css/7.19505d86.chunk.css",
+    "static/js/7.a3032809.chunk.js": "/reactBlog/static/js/7.a3032809.chunk.js",
+    "static/js/8.d6dcb4cf.chunk.js": "/reactBlog/static/js/8.d6dcb4cf.chunk.js",
+    "index.html": "/reactBlog/index.html",
+    "precache-manifest.546db6820c9c702ea8cda711a1f7e1d7.js": "/reactBlog/precache-manifest.546db6820c9c702ea8cda711a1f7e1d7.js",
+    "service-worker.js": "/reactBlog/service-worker.js",
+    "static/js/5.7cc64969.chunk.js.LICENSE.txt": "/reactBlog/static/js/5.7cc64969.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d20b531b.js",
+    "static/css/5.bd4c470c.chunk.css",
+    "static/js/5.7cc64969.chunk.js",
+    "static/css/main.56864540.chunk.css",
+    "static/js/main.290e2e94.chunk.js"
+  ]
+}
